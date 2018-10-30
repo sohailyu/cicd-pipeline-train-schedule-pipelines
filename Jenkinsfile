@@ -1,4 +1,4 @@
-pipeline {
+peline {
   agent any
   stage {
     stage ('Build') {
@@ -9,4 +9,5 @@ pipeline {
        }
      }
    }
- }      
+ }
+
